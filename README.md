@@ -24,12 +24,15 @@ After you extract the zip folder, select the "advancedbadgelist" folder (inside 
 **Jblocks12321 (Main-Dev)** 
 * [Roblox](https://roblox.com)
 * [Discord](https://discord.com)
+  
 **30l50 (Co-Dev)** 
 * [Roblox](https://roblox.com)
 * [Discord](https://discord.com)
+  
 **Meowbee (Guide Writer)** 
 * [Roblox](https://roblox.com)
 * [Discord](https://discord.com)
+  
 **Acetheawesone (Github Maintainer)** 
 * [Roblox](https://roblox.com)
 * [Discord](https://discord.com)
