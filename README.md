@@ -11,11 +11,11 @@ The best badge list extension for badge collectors on roblox!
 **Browsers not supported:** Firefox (PC)
 
 **How to install:**
-* Download the file and extract the zip folder
+* Download the file and extract the zip folder named [advancedbadgelistdownload.zip](https://github.com/meowbee-github/advancedbadgelist/raw/main/advancedbadgelistdownload.zip) 
 * Go to Browser Extension Tab and enable "Developer Mode"
 * Press "Load Unpacked" and select the extracted file
 * Voila, the plugin is at the bottom of the game page!
-
+  
 **Note:**
 After you extract the zip folder, select the "advancedbadgelist" folder (inside the "advancedbadgelistdownload" folder) to load unpacked in the Extension tab
     
