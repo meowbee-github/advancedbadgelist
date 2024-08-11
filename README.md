@@ -20,7 +20,7 @@ Advanced Badge List is a robust extension designed for badge collectors on Roblo
 
 ### 📥 How to Install 📥
 
-1. Download the extension from [advancedbadgelistdownload.zip](https://github.com/meowbee-github/advancedbadgelist/raw/main/advancedbadgelistdownload.zip).
+1. Download the extension from [advancedbadgelistdownload.zip](https://github.com/meowbee-github/advancedbadgelist/raw/main/abl_downloadfile.zip).
 2. Extract the downloaded zip file.
 3. Navigate to your browser's Extensions Tab and enable "Developer Mode".
 4. Click on "Load Unpacked" and select the extracted folder.
